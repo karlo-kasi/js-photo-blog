@@ -1,6 +1,10 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Edu+TAS+Beginner:wght@400;700&family=Sometype+Mono:wght@400;700&display=swap');
 
+*{
+    font-family: 'Edu TAS Beginner', sans-serif !important;
+}
+
 .title {
     font-family: 'Edu TAS Beginner', sans-serif !important;
     font-weight: 700;
