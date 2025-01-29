@@ -1,25 +1,31 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Edu+TAS+Beginner:wght@400;700&family=Sometype+Mono:wght@400;700&display=swap');
 
-/* .title {
+.title {
     font-family: 'Edu TAS Beginner', sans-serif !important;
     font-weight: 700;
-    font-size: 10px;
+    font-size: 5rem;
     text-align: center;
-} */
+}
+
 
 header {
     background-image: url(../img/wall.png);
+    background-size: contain;
 }
 
-main{
+body{
     background-image: url(../img/cork.png);
+    background-size: contain;
 }
 
 .date {
     font-family: 'Sometype Mono', monospace;
  }
 
-
+main {
+    width: 70%;
+    margin: 0 auto;
+}
  
 
